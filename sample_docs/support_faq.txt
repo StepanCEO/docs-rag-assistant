@@ -1,0 +1,17 @@
+Acme Robotics — Support FAQ
+
+Q: How do I reset a customer's password?
+A: Use the admin panel (Users -> Reset password). The customer receives a
+reset link valid for 24 hours.
+
+Q: What is the SLA for critical tickets?
+A: Critical tickets must receive a first response within 30 minutes and a
+resolution or workaround within 4 hours.
+
+Q: Which plans include phone support?
+A: Only the Business and Enterprise plans. Starter plan customers use email
+and chat support.
+
+Q: How do refunds work?
+A: Refunds are available within 14 days of purchase for annual plans.
+Monthly plans are non-refundable but can be cancelled anytime.
